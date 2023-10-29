@@ -1,0 +1,57 @@
+html
+{
+    background-color: antiquewhite;
+}
+h1
+{
+    text-align: center;
+}
+#name
+{
+    background-color: black;
+    color: aliceblue;
+}
+#profile
+{
+    height: 300px;
+    width:169px;
+    margin-left: 45%;
+}
+#profile1
+{
+    border-radius: 50%;
+    border-left-radius: 50%;
+}
+li
+{
+    font-style: bold;
+    font-size: 20px;
+
+}
+#cirt
+{
+    margin-left:100px;
+}
+#ed
+{
+    margin-left: 100px;
+}
+#skills
+{
+    margin-left: 100px;
+}
+a
+{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    text-align: right;
+}
+#contact
+{
+    margin-left: 49%;
+    margin-right: 45%;
+    background-color:aqua;
+    border-radius: 20%;
+
+}
